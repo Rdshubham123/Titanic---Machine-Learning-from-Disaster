@@ -29,7 +29,7 @@ attributes and build a model that can accurately predict survival outcomes.
 6. Model evaluation using accuracy and confusion matrix
 
 ## 📈 Results
-- Logistic Regression baseline accuracy: ~81%
+- Logistic Regression baseline accuracy: ~83%
 - Random Forest with feature engineering achieved approximately **83% accuracy**
 
 ## 📂 Project Structure
